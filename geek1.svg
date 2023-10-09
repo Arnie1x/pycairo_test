@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="700pt" height="700pt" viewBox="0 0 700 700" version="1.1">
+<g id="surface1">
+<path style="fill:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 50 50 L 150 50 L 150 150 L 50 150 Z M 200 200 L 300 200 L 300 250 L 200 250 Z M 200 200 "/>
+<path style="fill:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 294.644531 41.289062 C 303.25 25.027344 321.839844 16.734375 339.6875 21.191406 C 357.539062 25.648438 370.046875 41.703125 370 60.101562 "/>
+<path style="fill:none;stroke-width:0.0025;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.771429 0.0857143 C 0.771429 0.100876 0.765402 0.115419 0.754676 0.126133 C 0.743956 0.136853 0.729408 0.142868 0.714252 0.142857 C 0.69909 0.142846 0.684554 0.136814 0.673839 0.126083 C 0.663131 0.115352 0.657126 0.100804 0.657143 0.0856417 C 0.65716 0.0704799 0.663203 0.0559487 0.673945 0.0452455 C 0.684682 0.0345424 0.69923 0.0285435 0.714392 0.0285714 C 0.729554 0.0285993 0.744085 0.034654 0.754782 0.0453962 C 0.76548 0.056144 0.771468 0.0706975 0.771429 0.0858594 " transform="matrix(700,0,0,700,0,0)"/>
+</g>
+</svg>
