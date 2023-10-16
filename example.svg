@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600pt" height="400pt" viewBox="0 0 600 400" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2000pt" height="2000pt" viewBox="0 0 2000 2000" version="1.1">
 <defs>
 <linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="400" >
-<stop offset="0" style="stop-color:rgb(50%,10%,60%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(20%,30%,80%);stop-opacity:1;"/>
-</linearGradient>
-<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="400" >
 <stop offset="0" style="stop-color:rgb(90%,70%,20%);stop-opacity:1;"/>
 <stop offset="1" style="stop-color:rgb(70%,0%,0%);stop-opacity:1;"/>
 </linearGradient>
 </defs>
 <g id="surface1">
-<rect x="0" y="0" width="600" height="400" style="fill:rgb(0%,0%,0%);fill-opacity:1;stroke:none;"/>
-<rect x="0" y="0" width="600" height="400" style="fill:url(#linear0);stroke:none;"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 420 200 C 420 231.839844 407.347656 262.375 384.824219 284.878906 C 362.304688 307.386719 331.761719 320.019531 299.925781 320 C 268.085938 319.980469 237.558594 307.308594 215.066406 284.773438 C 192.574219 262.238281 179.960938 231.6875 180 199.847656 C 180.039062 168.007812 192.730469 137.492188 215.28125 115.011719 C 237.832031 92.535156 268.386719 79.941406 300.226562 80 C 332.066406 80.0625 362.578125 92.773438 385.039062 115.335938 C 407.503906 137.898438 420.082031 168.464844 420 200.304688 "/>
+<rect x="0" y="0" width="2000" height="2000" style="fill:rgb(0%,0%,0%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 250 500 L 1750 500 L 1750 1500 L 250 1500 Z M 250 500 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 1120 1000 C 1120 1066.273438 1066.273438 1120 1000 1120 C 933.726562 1120 880 1066.273438 880 1000 C 880 933.726562 933.726562 880 1000 880 C 1066.273438 880 1120 933.726562 1120 1000 "/>
 </g>
 </svg>

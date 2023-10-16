@@ -1,6 +1,7 @@
 import cairo
+import functions as draw
 
-with cairo.SVGSurface("example.svg", 600, 400) as surface:
+with cairo.SVGSurface("example.svg", 2000, 2000) as surface:
     ctx = cairo.Context(surface)
     ctx.paint()
 
@@ -12,15 +13,12 @@ with cairo.SVGSurface("example.svg", 600, 400) as surface:
     gradient_2.add_color_stop_rgba(1, 0.2, 0.3, 0.8, 1)  # First stop, 50% opacity
     gradient_2.add_color_stop_rgba(0, 0.5, 0.1, 0.6, 1)  # Last stop, 100% opacity
 
-    ctx.rectangle(0, 0, 600, 400)
-    ctx.set_source(gradient_2)
-    ctx.fill()
+    draw.rectangle(ctx, 250, 500, 1500, 1000)
+    draw.color(ctx, True, 1, 1, 1, 1)
+    # draw.gradient(ctx, True, gradient_2)
 
-    ctx.arc(300, 200, 120, 0, 2 * 22 / 7)
-    # ctx.set_source_rgba(0.4, 0.6, 1, 1)
-    ctx.set_source(gradient_1)
-    ctx.fill()
-
+    draw.circle(ctx, 1000, 1000, 120, 0, 360)
+    draw.gradient(ctx, True, gradient_1)
 
     # ctx.stroke()
     # ctx.scale(600, 400)
