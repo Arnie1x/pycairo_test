@@ -22,6 +22,6 @@ with cairo.SVGSurface("example.svg", 600, 400) as surface:
     ctx.fill()
 
 
-    ctx.stroke()
+    # ctx.stroke()
     # ctx.scale(600, 400)
     surface.write_to_png('example.png')
